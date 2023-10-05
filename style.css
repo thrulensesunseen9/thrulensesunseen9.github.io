@@ -26,3 +26,7 @@ footer {
   font-size: 30px;
   color: metalic-blue;
 }
+footer img {
+    width: 155px;
+    height: 200px;
+}
