@@ -13,22 +13,10 @@ h1 {
     width: 100%;
 }
 
-p {
+h2, p {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(148, 99, 36);
-}
-
-
-h2 {
-    font-family: Verdana;
     font-size: 30px;
-    color:rgb(75, 75, 166);
-
-}
-
-h3 {
-    font-family: 'Lucida Sans';
-    font-size: 24px;
 }
 
 footer {
