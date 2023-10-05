@@ -8,10 +8,8 @@ h1 {
     font-family: serif;
     text-transform: uppercase;
     text-align: center;
-    text-decoration: underline;
     font-size: 75px;
-    font-family: Helvetica;
-    color:rgb(75, 75, 166);
+    color: rgb(75, 75, 166);
     width: 100%;
 }
 
