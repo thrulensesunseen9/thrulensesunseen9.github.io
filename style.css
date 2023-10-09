@@ -20,7 +20,10 @@ h2, p {
     font-size: 30px;
     word-spacing: 1.4;
 }
-
+#missionobjective {
+    font-style: 'Space Mono', monospace;
+    font-size: 60px;
+}
 footer {
   text-align: center;
   font-size: 30px;
