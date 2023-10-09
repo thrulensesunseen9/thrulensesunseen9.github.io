@@ -14,13 +14,13 @@ h1 {
     width: 100%;
 }
 
-h2, p {
+#p1 {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(148, 99, 36);
     font-size: 30px;
     word-spacing: 1.4;
 }
-#missionobjective {
+h2, .missionobjective {
     font-style: 'Space Mono', monospace;
     font-size: 60px;
 }
