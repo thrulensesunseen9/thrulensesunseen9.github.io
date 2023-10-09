@@ -23,6 +23,7 @@ h1 {
 .h2 {
     font-style: 'Space Mono', monospace;
     font-size: 60px;
+    text-transform: uppercase;
 }
 footer {
   text-align: center;
