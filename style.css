@@ -20,7 +20,7 @@ h2, p {
     font-size: 30px;
     word-spacing: 1.4;
 }
-.missionobjective {
+#missionobjective {
     font-style: 'Space Mono', monospace;
     font-size: 60px;
 }
