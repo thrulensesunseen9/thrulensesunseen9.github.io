@@ -20,7 +20,7 @@ h2 {
     color: black;
     text-transform: uppercase;
 }
-.p1#p2 {
+.p1, .p2 {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(148, 99, 36);
     font-size: 25px;
