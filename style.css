@@ -30,6 +30,7 @@ h2 {
 li {
     font-style: 'Space Mono', monospace;
     color: green;
+    font-size: 18px;
 }
 footer {
   text-align: center;
