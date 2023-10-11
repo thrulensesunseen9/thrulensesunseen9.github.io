@@ -27,6 +27,10 @@ h2 {
     font-weight: bold;
     word-spacing: 1.4;
 }
+li {
+    font-style: 'Space Mono', monospace;
+    color: green;
+}
 footer {
   text-align: center;
   font-size: 30px;
