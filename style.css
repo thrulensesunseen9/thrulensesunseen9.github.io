@@ -27,7 +27,7 @@ h2 {
     font-weight: bold;
     word-spacing: 1.4;
 }
-#li {
+li {
     font-style: 'Space Mono', monospace;
     color: green;
     font-size: 18px;
