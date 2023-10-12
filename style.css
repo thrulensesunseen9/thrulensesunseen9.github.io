@@ -32,8 +32,8 @@ a {
 }
 li {
     font-style: 'Space Mono', monospace;
-    color: green;
-    font-size: 40px;
+    color: rgb(136, 89, 31);
+    font-size: 32px;
 }
 footer {
   text-align: center;
