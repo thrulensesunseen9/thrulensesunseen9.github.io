@@ -21,7 +21,7 @@ h2 {
     text-transform: uppercase;
 }
 a {
-    text-decoration: underline;
+    text-decoration: none;
 }
 .p1, .p2 {
     font-family: 'Times New Roman', Times, serif;
